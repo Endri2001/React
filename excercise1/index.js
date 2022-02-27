@@ -6,7 +6,12 @@ class App extends React.Component{
             <Machine 
             s1 = "🍇"
             s2 = "🍇"
-            s3 = "🍊"
+            s3 = "🍇"
+            />
+            <Machine 
+            s1 = "🍇"
+            s2 = "🍇"
+            s3 = "g"
             />
         </div>
         )
